@@ -12,7 +12,7 @@ function setActiveLink(){
 
   // this is incase your project isn't in the root directory of your url
   // for example localhost/ActiveNavLink/index.html
-  projectPrefix = "/ActiveLink/ActiveNavLink/";
+  projectPrefix = "/ActiveNavLink/";
 
   // loop through each nav li
   $('.nav li').each(function(){
